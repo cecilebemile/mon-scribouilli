@@ -2,4 +2,4 @@
 title: "Portraits"
 order: 4
 ---
-_(People, fans & pros...)_ 
+_(A page about people, students & pros...)_ 
