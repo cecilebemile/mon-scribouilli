@@ -2,4 +2,4 @@
 title: "Landscapes"
 order: 6
 ---
-(_about places, cultures, & travelling_) 
+_(places, cultures, news & travelling)_ 
