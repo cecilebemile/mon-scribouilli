@@ -1,5 +1,5 @@
 ---
 title: "Black & White"
-order: 8
+order: 5
 ---
 (about History & "Civilisation") 
