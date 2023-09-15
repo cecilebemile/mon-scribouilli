@@ -2,4 +2,4 @@
 title: "Digital"
 order: 7
 ---
-(about Tech, esp. Edtech) 
+_(about tech, esp. edtech & technoethics)_ 
