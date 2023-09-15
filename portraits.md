@@ -1,5 +1,5 @@
 ---
 title: "Portraits"
-order: 5
+order: 2
 ---
 _(students & pros... portraits & interviews)_ 
