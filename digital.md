@@ -1,5 +1,5 @@
 ---
 title: "Digital"
-order: 7
+order: 4
 ---
 _(about tech, esp. edtech & technoethics)_ 
