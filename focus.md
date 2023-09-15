@@ -1,5 +1,5 @@
 ---
 title: "Focus"
-order: 9
+order: 6
 ---
 _(longer files & free topics)_ 
