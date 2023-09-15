@@ -1,5 +1,5 @@
 ---
 title: "Snapshots"
-order: 1
+order: 4
 ---
 (Short content & reviews) 
